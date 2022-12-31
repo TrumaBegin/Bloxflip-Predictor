@@ -12,7 +12,7 @@ People sell this predictor, even tho  its randomized, here you go this one uses 
 
 > Open your **Command Propmt**
 < Type `pip install requests`
-> `pip install discord`
+> `pip install pycord` -- if discord is installed already please do ('pip uninstall discord')
 < `pip install random`
 > `pip install json`
 
